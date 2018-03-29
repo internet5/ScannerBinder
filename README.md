@@ -1,3 +1,3 @@
 # ScannerBinder
-Using javascript to bind scanner 
-Support QR Code
+Using javascript to bind scanner, 
+support QR Code
